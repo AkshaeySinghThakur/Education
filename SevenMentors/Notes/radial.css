@@ -1,0 +1,44 @@
+/* .rad
+{
+    height: 200px;
+    background-image: radial-gradient(Yellow,red,purple);
+} */
+/* .rad
+{
+    height: 200px;
+    background-image: radial-gradient(Yellow 10%,red 20%,purple 5%);
+} */
+/* .rad
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-image: radial-gradient(circle,Yellow,red,purple);
+} */
+/* .rad
+{
+    height: 200px;
+    background-image: radial-gradient(closest-side at 65% 55%,Yellow,red,purple);
+} */
+/* .rad
+{
+    height: 200px;
+    background-image: radial-gradient(closest-corner at 65% 55%,Yellow,red,purple);
+} */
+/* .rad
+{
+    height: 200px;
+    background-image: radial-gradient(farthest-side at 65% 55%,Yellow,red,purple);
+} */
+/* .rad
+{
+    height: 200px;
+    background-image: radial-gradient(farthest-corner at 65% 55%,Yellow,red,purple);
+} */
+.rad
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-image: repeating-radial-gradient(Yellow,red,purple,blue,green);
+}

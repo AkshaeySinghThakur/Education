@@ -1,0 +1,30 @@
+a:link,a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+.hide{
+    display: none;
+}
+.disp:hover .hide{
+    display: block;
+}
+
+.bannersub:hover{
+    transform: scale(1.1);
+    transition-duration: 2s;
+    border-radius: 25px;
+}
+
+.show:hover .hide{
+    display: block;
+    color: white;
+}
+.time{
+    height: 40px;
+    width: 40px;
+}
+.timer{
+    border: 1px solid grey;
+    border-radius: 5px;
+}

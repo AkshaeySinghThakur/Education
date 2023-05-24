@@ -1,0 +1,12 @@
+body
+{
+    background-color: #73a6fe;
+}
+button
+{
+    background-color: green;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 10px;
+}

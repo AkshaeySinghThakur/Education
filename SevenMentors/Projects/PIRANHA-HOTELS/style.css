@@ -1,0 +1,20 @@
+button
+{
+    background-color: green;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 10px;
+}
+#Gallery
+{
+    text-align: center;
+    font-size: 25px;
+    font-style: bold;
+    background-color: #6f9dfd;
+    background-attachment: fixed;
+}
+#footer
+{
+    text-align: center;
+}
